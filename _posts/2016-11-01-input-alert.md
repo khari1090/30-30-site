@@ -4,7 +4,7 @@ title:      Input Alert
 date:       2016-11-01
 summary:    Input field alerts.
 categories: jekyll pixyll
-image: "https://www.dropbox.com/s/c5aqev49dnrc066/10.input-alert.png?raw=1"
+image: "https://www.dropbox.com/s/y8q5lg0svi1ilze/10.input-alert.png?raw=1"
 external-url: https://github.com/khari1090/30-30-projects/blob/master/10.input-alert.html
 ---
 

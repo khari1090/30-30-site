@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Word Analyzer
-date:       2016-11-10
+date:       2016-11-18
 summary:    Count the number of words, consonants, and vowels in a string.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/la2z9iqmb6iqf03/27.wordAnalyzer.png?raw=1"

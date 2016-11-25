@@ -1,5 +1,5 @@
 # Site settings
-title:       30/30
+title:       30/31
 email:       khari1090@gmail.com
 author:      Khari Slaughter
 description: "These are the results of a personal challenge I set for myself: Code
@@ -62,7 +62,7 @@ flattr_button:
 dribbble_username: kh4ri
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false

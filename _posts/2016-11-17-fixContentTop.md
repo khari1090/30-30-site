@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Fix Content Top
-date:       2016-11-10
+date:       2016-11-17
 summary:    Div will stick to top of window on scroll.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/fdlm96oue6mt24u/26.fixContentTop.png?raw=1"

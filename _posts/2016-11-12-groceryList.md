@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Grocery List
-date:       2016-11-10
+date:       2016-11-12
 summary:    Add to list/mark done/remove.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/8uzq2wjx2yl4299/21.groceryList.png?raw=1"

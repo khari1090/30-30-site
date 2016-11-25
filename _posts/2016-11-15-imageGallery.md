@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Image Gallery
-date:       2016-11-10
+date:       2016-11-15
 summary:    Simple image gallery.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/gj5djojpyi1kbpl/24.imgGallery.png?raw=1"

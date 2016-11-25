@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Rock Paper Scissors
-date:       2016-11-10
+date:       2016-11-20
 summary:    Rock Paper Scissors simulator.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/sk0li3sldy7lc5j/29.rockPaperScissors.png?raw=1"

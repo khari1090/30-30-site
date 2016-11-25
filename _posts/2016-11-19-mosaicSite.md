@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Mosaic Site
-date:       2016-11-10
+date:       2016-11-19
 summary:    Landing Page.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/e1x4vn2gcf4raov/28.mosaicSite.png?raw=1"

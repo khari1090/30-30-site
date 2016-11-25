@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Food Shopping Cart
-date:       2016-11-10
+date:       2016-11-13
 summary:    Add/remove from cart and watch the total update.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/bthpjnmvtcvuk3r/22.foodShopCart.png?raw=1"

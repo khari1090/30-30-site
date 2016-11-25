@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hover State
-date:       2016-11-10
+date:       2016-11-14
 summary:    Image overlays on hover.
 categories: jekyll pixyll
 image: "https://www.dropbox.com/s/th1ilxjdix2inn0/23.hoverState.png?raw=1"
