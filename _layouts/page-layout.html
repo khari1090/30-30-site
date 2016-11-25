@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<div class="landing">
-<div class="landing-header">30<b>/30</b></div><br>
-<div class="landing-subheader">30 Web Projects / 30 Days</div>
+<!-- <div class="landing">
+<div class="landing-header">30 / 30</div><br>
+<div class="landing-subheader">30 Web Projects / 30 Days</div> -->
 </div>
 
 {% include head.html %}
@@ -31,6 +31,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
   </div>
+
+  {% if post.external-url %}
+  <a href="{{ post.external-url }}" class="project-button">View Project ⇢</a><br><br>
+  {% else %}
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  {% endif %}
 
   {% include footer.html %}
 </body>

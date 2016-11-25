@@ -1,16 +1,27 @@
+.post-image{
+  height: 200px;
+  width: 100%;
+  background-color: tomato;
+  display: flex;
+}
 
 .posts {
   margin: 0;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .posts .post {
   margin-bottom: 0.75em;
   border-bottom: thin solid #f3f3f3;
+  // border: 1px solid black;
+  width: 400px;
 }
 
 .posts .post:last-child {
-  border-bottom: none;
-  margin-bottom: .375em;
+  // border-bottom: none;
+  // margin-bottom: .375em;
   padding-bottom: 0;
 }
 
@@ -18,6 +29,7 @@
   margin-top: 0;
   font-weight: 600;
   color: #333;
+  font-size: 2em;
 }
 
 .post-footer {

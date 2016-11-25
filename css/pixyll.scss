@@ -33,3 +33,59 @@
 @import 'gists';
 @import 'measure';
 @import 'pagination';
+
+.landing{
+  height: 100vh;
+  width: 100%;
+  background-color: #1919e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.landing-short{
+  height: 50%;
+  width: 100vw;
+  background-color: #1919e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.landing-header{
+  font-size: 6em;
+  color: white;
+  font-family: 'Lato';
+  font-weight: 100;
+}
+
+.landing-subheader{
+  font-size: 1em;
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 100;
+  margin: 2%;
+}
+
+.project-button{
+  background-color: #1919e6;
+  color: white;
+  padding: 2%;
+  padding-min: 10px;
+  text-decoration: none;
+  text-shadow: none;
+  font-family: 'Lato';
+  font-weight: lighter;
+  border-radius: 3px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.project-button:hover, .project-button:focus{
+  text-decoration: none;
+  text-shadow: none;
+  color: white;
+  background-color: $link-hover-color;
+}

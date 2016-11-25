@@ -4,14 +4,16 @@
 }
 
 .site-header a {
-  color: #333;
+  color: #1919e6;
   font-size: $h3;
   font-weight: 300;
   background-image: none;
 }
 
 .site-header .site-title {
-  font-size: $h2;
+  // font-size: $h2;
+  font-size: 80px;
+  font-family: 'Lato';
 }
 
 .site-nav {
@@ -20,6 +22,8 @@
 
 .site-header nav a {
   color: #666;
+  font-family: 'Lato';
+    padding-bottom: 4%;
 }
 
 .site-header nav a:hover,
@@ -27,7 +31,8 @@
 .site-header nav a:active {
   color: #444;
   opacity: 1;
-  border-bottom: 2px solid #444;
+  border-bottom: 10px solid #1919e6;
+  transition: .1s ease;
 }
 
 .site-nav a + a {
@@ -39,6 +44,7 @@
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
   opacity: 0.88;
+  color: #444;
 }
 
 .site-header {
