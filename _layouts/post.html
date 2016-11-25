@@ -11,7 +11,7 @@ layout: page-layout
   <h1>{{ page.title }}</h1>
 
   {% if page.external-url %}
-    <a href="{{ page.external-url }}" class="project-button">View Project ⇢</a><br><br>
+    <a href="{{ page.external-url | prepend: "http://htmlpreview.github.io/?" }}" class="project-button">View Project ⇢</a><br><br>
     {% endif %}
   <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
   {% if page.update_date %}
