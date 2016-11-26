@@ -2,13 +2,9 @@
 title:       30/31
 email:       khari1090@gmail.com
 author:      Khari Slaughter
-description: "These are the results of a personal challenge I set for myself: Code
-one project per day for thirty days. I focused on Javascript knowing that I needed a firmer grasp
-of how to manipulate [state] and control various aspects of the DOM. Finishing feels wonderful. I have
-certainly learned a lot. Have a peek at my work and I suggest you set a 30 day challenge for yourself. It's
-hands down one of the most efficient learning tactics I know."
+description: "Thirty Javascript projects in thirty-one days!"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://3030.one"
 date_format: "%b %-d, %Y"
 
 # Google services

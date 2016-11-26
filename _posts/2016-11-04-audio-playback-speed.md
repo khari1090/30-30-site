@@ -9,13 +9,13 @@ external-url: https://github.com/khari1090/30-30-projects/blob/master/13.audio-p
 ---
 
 ## Goal
-Insert an audio clip and manipulate the start and end points for the audio clip via user input
+Insert an audio clip and manipulate the start and end points for the audio clip via user input.
 
 ## Result
 The original goal was a little buggy so I had to drop it. Now, all you can do is change the speed. This is the first step to making a little sampler that works in the browser. I would like to expand the concept and make it work for video. Shouldn't be too bad.
 
 ## Learned
-The very basics of adding and controlling an audio element
+The very basics of adding and controlling an audio element.
 
 ## Issues
 Trying to add a second sample option using the same methods resulted in a buggy app. The functions conflicted and one would impede the other from working even when I added a reset parameter to the function.

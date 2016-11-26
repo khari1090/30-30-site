@@ -9,13 +9,13 @@ external-url: https://github.com/khari1090/30-30-projects/blob/master/12.sign-la
 ---
 
 ## Goal
-Make an app that takes input, pushes to an array, and replaces each character with it’s respective sign language equivalent in .png format
+Make an app that takes input, pushes to an array, and replaces each character with its respective sign language equivalent in .png format.
 
 ## Result
-It works
+It works.
 
 ## Learned
-How to make a field automatically run a function when anything inside changes. I feel like i may have made a small breakthrough
+How to make a field automatically run a function when anything inside changes. I feel like I may have made a small breakthrough.
 
 ## Issues
 This one wasn’t so bad. Nothing unusual to report.

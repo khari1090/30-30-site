@@ -18,4 +18,4 @@ It works.
 I have been wanting to get this simple idea to work for a while now and i’ve finally achieved it. There are two examples.
 
 ## Issues
-This is not dynamic. I would have had to user js and I still might one of these days. I ended up adding the image urls in the CSS as background images. I initially thought it would work inside of image divs in the body but that proved to be ineffective for me.
+This is not dynamic. I would have had to user JS and I still might one of these days. I ended up adding the image URLs in the CSS as background images. I initially thought it would work inside of image divs in the body but that proved to be ineffective for me.

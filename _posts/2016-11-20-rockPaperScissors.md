@@ -9,13 +9,13 @@ external-url: https://github.com/khari1090/30-30-projects/blob/master/29.rockPap
 ---
 
 ## Goal
-Simulate a rock paper scissors game
+Simulate a rock paper scissors game.
 
 ## Result
-It works
+It works.
 
 ## Learned
-See below
+*See below.*
 
 ## Issues
 I spent too long trying to figure out why the score was not incrementing properly. I had to move the value outside of the function so that it would be a global variable.

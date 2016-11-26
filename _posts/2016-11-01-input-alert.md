@@ -9,7 +9,7 @@ external-url: https://github.com/khari1090/30-30-projects/blob/master/10.input-a
 ---
 
 ## Goal
-Create in-line alerts for input field
+Create in-line alerts for input field.
 
 ## Result
 It works!
@@ -18,4 +18,4 @@ It works!
 I had trouble with this before. But this time It works. I had to toggle classes.
 
 ## Issues
-I ended up making more classes than i needed to. I am still trying to get `+= .[alternativeClassIdentifier]` to work in javascript.
+I ended up making more classes than I needed to. I am still trying to get `+=[.alternativeClassIdentifier]` to work in javascript. Basically, I am unsure how to append to class names via JS.

@@ -15,6 +15,7 @@ Make a div stick to the top when it reaches the top of the window on scroll.
 It works but it’s a little buggy. I mean it's not buggy, but it's not very smooth.
 
 ## Learned
+This is one of those things I have been wondering about for a while. I walked through a little blog tutorial to figure this one out. I have to say...I don't *fully* get how it works yet. I mean, if you asked me tomorrow to replicate it, I would struggle and need another reference. Other than that, I had an informative time learning about the different ways to implement `offset`.
 
 ## Issues
-It’s buggy and this whole thing works pretty bad. It needs to be fixed.
+It’s a little glitchy. I wouldn't say buggy because it works the same way every time and it does work...it's just not smooth or elegant the way the page jumps. This could be improved...but have a look anyway.

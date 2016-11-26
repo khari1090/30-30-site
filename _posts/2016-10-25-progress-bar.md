@@ -9,13 +9,13 @@ external-url: https://github.com/khari1090/30-30-projects/blob/master/3.progress
 ---
 
 ## Goal
-Make a progress bar that takes user input and animates to display that input
+Make a progress bar that takes user input and animates to display that input.
 
 ## Result
 I did it. It works.
 
 ## Learned
-How to animate using CSS, shapes are just divs
+How to animate using CSS, shapes are just divs.
 
 ## Issues
-Making the form submit using the “Enter” key.
+Making the form submit using the `Enter` key.

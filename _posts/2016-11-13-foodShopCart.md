@@ -15,7 +15,7 @@ A while ago I was given a coding challenge which involved making a shopping cart
 It works.
 
 ## Learned
-I learned many things with this project. Namely key/value pairs in arrays, solidifying my understanding of arrays, adding and rounding of numbers in an array
+I learned many things with this project. Namely `key`/`value` pairs in arrays, solidifying my understanding of arrays, adding and rounding of numbers in an array
 
 ## Issues
-Besides the normal learning curve, this wasn’t so bad. I guess i had some trouble displaying the total properly and showing the prices/names of the foods at first but that came together pretty well in the end.
+Besides the normal learning curve, this wasn’t so bad. I guess I had some trouble displaying the total properly and showing the prices/names of the foods at first but that came together pretty well in the end.
