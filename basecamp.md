@@ -40,7 +40,7 @@ I have worked as a Front End Web Developer and Graphic Design Instructor for the
 
 My bachelor’s degree in Sociology provided me with the ability to view, analytically, elements of the human condition. My desire to shift my social science education to the web is built on my interest in bringing together both the human condition and my problem-solving skills.
 
-Through my work at Bitfountain, I have developed a compassionate approach and commitment to assisting people communicate better and easier through design. Through my freelance work, I have learned to appreciate beautiful, modular, code.
+Through my work at Bitfountain, I have developed a compassionate approach and commitment to helping people communicate better and more easily through design. Through my freelance work, I have learned to appreciate beautiful, modular code.
 
 ```ruby
 <script>
